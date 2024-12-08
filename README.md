@@ -27,3 +27,6 @@ Este código proporciona un análisis detallado de las ventas y patrones de comp
 La aplicación permite al usuario seleccionar un producto, y, basado en reglas de asociación, genera recomendaciones de productos adicionales con métricas de soporte, confianza y lift.
 Se asigna un descuento aleatorio entre 5% y 20%, que se muestra en un valueBox y una barra de progreso. El color de la barra varía según el valor del descuento.
 Se muestran imágenes del producto seleccionado y recomendado. Las imágenes y las recomendaciones se ajustan dinámicamente según el producto elegido y las reglas de asociación correspondientes.
+
+
+#LINK A LA SHINY APP https://rociomartinez.shinyapps.io/reglas_de_asociacion/
