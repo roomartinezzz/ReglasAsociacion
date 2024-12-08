@@ -29,4 +29,4 @@ Se asigna un descuento aleatorio entre 5% y 20%, que se muestra en un valueBox y
 Se muestran imágenes del producto seleccionado y recomendado. Las imágenes y las recomendaciones se ajustan dinámicamente según el producto elegido y las reglas de asociación correspondientes.
 
 
-#LINK A LA SHINY APP https://rociomartinez.shinyapps.io/reglas_de_asociacion/
+# LINK A LA SHINY APP https://rociomartinez.shinyapps.io/reglas_de_asociacion/
